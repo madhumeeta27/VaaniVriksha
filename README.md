@@ -50,5 +50,5 @@ The dataset consists of audio recordings in Kannada, primarily discussing sandal
 ## Setup Instructions
 1. **Clone the Repository:**
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone <https://github.com/madhumeeta27/VaaniVriksha>
+   cd <VaaniVriksha>
